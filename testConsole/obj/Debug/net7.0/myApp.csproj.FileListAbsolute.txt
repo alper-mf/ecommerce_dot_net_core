@@ -1,0 +1,15 @@
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/bin/Debug/net7.0/myApp
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/bin/Debug/net7.0/myApp.deps.json
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/bin/Debug/net7.0/myApp.runtimeconfig.json
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/bin/Debug/net7.0/myApp.dll
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/bin/Debug/net7.0/myApp.pdb
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.csproj.AssemblyReference.cache
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.AssemblyInfoInputs.cache
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.AssemblyInfo.cs
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.csproj.CoreCompileInputs.cache
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.dll
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/refint/myApp.dll
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.pdb
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/myApp.genruntimeconfig.cache
+/Users/alperduzgun/Development/nestjs-task-management/ecommerce_dot_net_core/testConsole/obj/Debug/net7.0/ref/myApp.dll
